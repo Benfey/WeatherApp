@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Benfey</string>
+    <string name="my_name">Anton Benfey</string>
+    <string name="my_name_contentDesc">myName</string>
+</resources>
